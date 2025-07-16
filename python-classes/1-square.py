@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-"""This module defines a Square class with size validation and area calculation."""
+"""This module defines a Square class with size and area calculation."""
 
 
 class Square:
-    """Represents a square with a private size attribute and area computation."""
+    """Represents a square with size validation and area computation."""
 
     def __init__(self, size=0):
         """
