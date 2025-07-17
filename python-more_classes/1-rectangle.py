@@ -77,5 +77,3 @@ class Rectangle:
             return 0
         return 2 * (self.__width + self.__height)
 
-
-✅ Ce que ce code inclut:
